@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="7.0">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="Conditions"
+      id="9ba72d16-7c29-4e5a-a363-a38c561bab3b"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="Conditions"
+      id="9ba72d16-7c29-4e5a-a363-a38c561bab3b"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="ConditionsRepository"
+id="0660e049-f57b-4dfc-9bbf-95cc060613ea"
+rxversion="7.0">
+  <codegen
+  classname="ConditionsRepository"
+  namespace="Conditions"/>
+  <rootfolder
+  name="Root"
+  id="c303d3a2-9d3a-4921-b9e0-0c10d12d7117"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

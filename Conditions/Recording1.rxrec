@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="4ab78c66-8f67-40c2-8112-66b6a33a4cb3"
+mode="Global"
+rxversion="7.0">
+	<name>
+		Recording1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="Conditions">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="0660e049-f57b-4dfc-9bbf-95cc060613ea"
+	name="ConditionsRepository"
+	relativepath="ConditionsRepository.rxrep"
+	rxversion="7.0">
+		<codegen
+		classname="ConditionsRepository"
+		namespace="Conditions">
+		</codegen>
+		<rootfolder
+		id="c303d3a2-9d3a-4921-b9e0-0c10d12d7117"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
